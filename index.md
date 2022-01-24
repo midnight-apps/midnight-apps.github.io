@@ -11,7 +11,7 @@ We reserve the right to make changes to this Privacy Policy at any time and for 
 
 This Privacy Policy does NOT apply to the third-party online/mobile store (i.e. the Apple App Store) from which you install the Application which may also collect and use data about you.  This Privacy Policy does not cover any of the data collected by any such third party which we may use for marketing and analytics. 
 
-**By downloading, accessing and/or using the Application, you agree to the collection and use of your information in accordance with this Privacy Policy.
+By downloading, accessing and/or using the Application, you agree to the collection and use of your information in accordance with this Privacy Policy.
 
 ### COLLECTION OF YOUR INFORMATION
 We may collect information about you in a variety of ways. The information we may collect via the Application includes the following: 
